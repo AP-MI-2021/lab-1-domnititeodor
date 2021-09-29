@@ -25,7 +25,8 @@ Returneaza CMMDC a doua numere x si y folosind al doilea algoritm.
 def get_cmmdc_v2(x, y):
   # codul vostru aici
   
-  
+  test git add
+
 def main():
   # interfata de tip consola aici
 
